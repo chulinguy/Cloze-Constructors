@@ -1,0 +1,39 @@
+[
+  {
+    "question": "What is the name of the reaction where two hydrogen atoms combine to form a helium atom?",
+    "answer": "fusion"
+  },
+  {
+    "question":"What is the term for the highest attainable speed an object can reach in free-fall in a fluid?",
+    "answer": "terminal velocity"
+  },
+  {
+    "question":"What is the most abundant metal in the Earth's crust?",
+    "answer": "aluminum"
+  },
+  {
+    "question":"What is the most abundant element in the Earth's atmosphere?",
+    "answer": "nitrogen"
+  },
+   {
+    "question":"What is the name for a protein that acts as a biological catalyst?",
+    "answer": "enzyme"
+  },
+   
+   {
+    "question":"What is the largest internal organ of the human body?",
+    "answer": "liver"
+  },
+  {
+    "question": "Who came up with the three laws of motion? (Enter last name only)",
+    "answer": "newton"
+  },
+  {
+    "question": "Who came up with the General Theory of Relativity? (Enter last name only)",
+    "answer": "einstein"
+  },
+  {
+    "question": "What is the common term used for soldium chloride?",
+    "answer": "salt"
+  }
+]
